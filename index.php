@@ -11,5 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         xd testing xd
+        <help>
     </body>
 </html>
